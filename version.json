@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "windows": "https://github.com/Velkair/klerora/releases/download/v3.0/Klerora.exe",
-  "windows_sha": "254b2280382c149dca4ad043c726e2d47bfcf8ad74eb411ba00bd3334270a120",
-  "notes": "Première version du nouveau moteur Klerora. Mention de droits ajoutée dans Réglages › Mise à jour.",
+  "windows_sha": "76941100b08b82e3f86822434db9f30d7052394cb40fb191a86e5ef2b7099b4f",
+  "notes": "Attribution corrigée : Velkaïr x Petronas™.",
   "minimale": ""
 }

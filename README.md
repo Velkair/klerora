@@ -56,4 +56,4 @@ tous droits réservés sur le code et les éléments visuels.
 
 ---
 
-© 2026 Alexandre Fonseca — Tous droits réservés.
+© 2026 Velkaïr x Petronas™ — Tous droits réservés.
