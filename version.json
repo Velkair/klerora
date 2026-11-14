@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "windows": "https://github.com/Velkair/klerora/releases/download/v3.0/Klerora.exe",
-  "windows_sha": "76941100b08b82e3f86822434db9f30d7052394cb40fb191a86e5ef2b7099b4f",
-  "notes": "Attribution corrigée : Velkaïr x Petronas™.",
+  "windows_sha": "26d1d630beca784c79ddc1866bdbefb9069bc03cbdb42f714079dcc6a97bec8e",
+  "notes": "Mention des droits toujours visible en bas de l'application + écran de démarrage avec barre de chargement.",
   "minimale": ""
 }
