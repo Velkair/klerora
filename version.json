@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "windows": "https://github.com/Velkair/klerora/releases/download/v3.0/Klerora.exe",
-  "windows_sha": "26d1d630beca784c79ddc1866bdbefb9069bc03cbdb42f714079dcc6a97bec8e",
-  "notes": "Mention des droits toujours visible en bas de l'application + écran de démarrage avec barre de chargement.",
+  "windows_sha": "ee4610c6ed6da8b49b805431d53dbd76dc035fa513fbb0dc4cb8f4e98d652ae3",
+  "notes": "Correction : le dépôt d'un relevé (bouton « Choisir mes fichiers ») ne fonctionnait plus depuis le portage en Go — l'aperçu avant import est réparé.",
   "minimale": ""
 }
