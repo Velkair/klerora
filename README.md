@@ -53,3 +53,7 @@ tous droits réservés sur le code et les éléments visuels.
 ## Contact
 
 [contact@klerora.com](mailto:contact@klerora.com) · [klerora.com](https://klerora.com)
+
+---
+
+© 2026 Alexandre Fonseca — Tous droits réservés.
